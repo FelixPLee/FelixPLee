@@ -1,8 +1,8 @@
 <h1> Felix Pinheiro Lee </h1>
 
 - 🎓 Studying Systems analysis and development in PUCRS
-- 👨‍💻 Working in LABELO on source code analysis 
-- 🛠️ Sharpening on my JS and python skills
+- 👨‍💻 Working in LABELO on source code analysis
+- 🛠️ Sharpening on my JS skills
 - 🤝 Always excited to collaborate on interesting projects!
 
 <br>
