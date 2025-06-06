@@ -3,7 +3,7 @@
 - 🎓 Studying Systems analysis and development in PUCRS
 - 👨‍💻 Working in LABELO on source code analysis
 - 🛠️ Sharpening on my JS skills
-- 🤝 Always excited to collaborate on interesting projects!
+- 🤝 working on Collaborative Projects!
 
 <br>
 
