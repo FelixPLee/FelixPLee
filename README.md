@@ -2,7 +2,7 @@
 
 - 🎓 Studying Systems analysis and development in PUCRS
 - 👨‍💻 Working in LABELO on source code analysis
-- 🛠️ Learning about QA and embedded software
+- 🛠️ Learning about QA
 - 🤝 Open to work on Collaborative Projects!
 
 <br>
